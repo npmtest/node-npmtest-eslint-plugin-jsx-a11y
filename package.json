@@ -1,1 +1,40 @@
-{     "devDependencies": {         "eslint-plugin-jsx-a11y": "*",         "electron-lite": "kaizhu256/node-electron-lite#alpha",         "utility2": "kaizhu256/node-utility2#alpha"     },     "name":"npmtest-eslint-plugin-jsx-a11y",     "homepage": "https://github.com/npmtest/node-npmtest-eslint-plugin-jsx-a11y",     "repository": {         "type": "git",         "url": "https://github.com/npmtest/node-npmtest-eslint-plugin-jsx-a11y.git"     },     "scripts": {         "build-ci": "utility2 shReadmeTest build_ci.sh"     },     "version": "0.0.1" }
+{
+    "author": "kai zhu <kaizhu256@gmail.com>",
+    "description": "#### test coverage for  [eslint-plugin-jsx-a11y (v4.0.0)](https://github.com/evcohen/eslint-plugin-jsx-a11y#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-eslint-plugin-jsx-a11y.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-eslint-plugin-jsx-a11y) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-eslint-plugin-jsx-a11y.svg)](https://travis-ci.org/npmtest/node-npmtest-eslint-plugin-jsx-a11y)",
+    "devDependencies": {
+        "electron-lite": "kaizhu256/node-electron-lite#alpha",
+        "eslint-plugin-jsx-a11y": "*",
+        "utility2": "kaizhu256/node-utility2#alpha"
+    },
+    "engines": {
+        "node": ">=4.0"
+    },
+    "homepage": "https://github.com/npmtest/node-npmtest-eslint-plugin-jsx-a11y",
+    "keywords": [
+        "coverage",
+        "test",
+        "eslint-plugin-jsx-a11y"
+    ],
+    "license": "MIT",
+    "main": "lib.npmtest_eslint_plugin_jsx_a11y.js",
+    "name": "npmtest-eslint-plugin-jsx-a11y",
+    "nameAlias": "npmtest_eslint_plugin_jsx_a11y",
+    "nameOriginal": "npmtest-eslint-plugin-jsx-a11y",
+    "os": [
+        "darwin",
+        "linux"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/npmtest/node-npmtest-eslint-plugin-jsx-a11y.git"
+    },
+    "scripts": {
+        "build-ci": "utility2 shReadmeTest build_ci.sh",
+        "env": "env",
+        "heroku-postbuild": "npm install \"kaizhu256/node-utility2#alpha\" && utility2 shDeployHeroku",
+        "postinstall": "[ ! -f npm_scripts.sh ] || ./npm_scripts.sh postinstall",
+        "start": "PORT=${PORT:-8080} utility2 start test.js",
+        "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
+    },
+    "version": "0.0.1"
+}
