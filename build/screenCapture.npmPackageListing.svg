@@ -1,249 +1,249 @@
 <svg height="3934" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="3934" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-19 02:21:05 +0000   489578 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-19 02:21:05 +0000     7923 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-19 02:21:05 +0000     1077 bytes  LICENSE.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-19 02:21:05 +0000     6702 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-19 02:21:05 +0000      108 bytes  __mocks__/IdentifierMock.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-19 02:21:05 +0000      641 bytes  __mocks__/JSXAttributeMock.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-19 02:21:05 +0000      261 bytes  __mocks__/JSXElementMock.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-19 02:21:05 +0000      135 bytes  __mocks__/JSXExpressionContainerMock.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-19 02:21:05 +0000     2128 bytes  __mocks__/genInteractives.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-19 02:21:05 +0000      329 bytes  __tests__/__util__/parserOptionsMapper.js</tspan>
-<tspan x="10" y="186"> 10.  2017-04-19 02:21:05 +0000     1100 bytes  __tests__/index-test.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-19 02:21:05 +0000     1931 bytes  __tests__/src/rules/accessible-emoji-test.js</tspan>
-<tspan x="10" y="218"> 12.  2017-04-19 02:21:05 +0000     1644 bytes  __tests__/src/rules/anchor-has-content-test.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-19 02:21:05 +0000     2275 bytes  __tests__/src/rules/aria-activedescendant-has-ta\</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 02:22:10 +0000   489578 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 02:22:10 +0000     7923 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 02:22:10 +0000     1077 bytes  LICENSE.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 02:22:10 +0000     6702 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 02:22:10 +0000      108 bytes  __mocks__/IdentifierMock.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 02:22:10 +0000      641 bytes  __mocks__/JSXAttributeMock.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 02:22:10 +0000      261 bytes  __mocks__/JSXElementMock.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 02:22:10 +0000      135 bytes  __mocks__/JSXExpressionContainerMock.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 02:22:10 +0000     2128 bytes  __mocks__/genInteractives.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 02:22:10 +0000      329 bytes  __tests__/__util__/parserOptionsMapper.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 02:22:10 +0000     1100 bytes  __tests__/index-test.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 02:22:10 +0000     1931 bytes  __tests__/src/rules/accessible-emoji-test.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 02:22:10 +0000     1644 bytes  __tests__/src/rules/anchor-has-content-test.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 02:22:10 +0000     2275 bytes  __tests__/src/rules/aria-activedescendant-has-ta\</tspan>
 <tspan x="10" y="250">bindex-test.js</tspan>
-<tspan x="10" y="266"> 14.  2017-04-19 02:21:05 +0000     2149 bytes  __tests__/src/rules/aria-props-test.js</tspan>
-<tspan x="10" y="282"> 15.  2017-04-19 02:21:05 +0000    10315 bytes  __tests__/src/rules/aria-proptypes-test.js</tspan>
-<tspan x="10" y="298"> 16.  2017-04-19 02:21:05 +0000     2818 bytes  __tests__/src/rules/aria-role-test.js</tspan>
-<tspan x="10" y="314"> 17.  2017-04-19 02:21:05 +0000     2193 bytes  __tests__/src/rules/aria-unsupported-elements-te\</tspan>
+<tspan x="10" y="266"> 14.  2017-04-19 02:22:10 +0000     2149 bytes  __tests__/src/rules/aria-props-test.js</tspan>
+<tspan x="10" y="282"> 15.  2017-04-19 02:22:10 +0000    10315 bytes  __tests__/src/rules/aria-proptypes-test.js</tspan>
+<tspan x="10" y="298"> 16.  2017-04-19 02:22:10 +0000     2818 bytes  __tests__/src/rules/aria-role-test.js</tspan>
+<tspan x="10" y="314"> 17.  2017-04-19 02:22:10 +0000     2193 bytes  __tests__/src/rules/aria-unsupported-elements-te\</tspan>
 <tspan x="10" y="330">st.js</tspan>
-<tspan x="10" y="346"> 18.  2017-04-19 02:21:05 +0000     3342 bytes  __tests__/src/rules/click-events-have-key-events\</tspan>
+<tspan x="10" y="346"> 18.  2017-04-19 02:22:10 +0000     3342 bytes  __tests__/src/rules/click-events-have-key-events\</tspan>
 <tspan x="10" y="362">-test.js</tspan>
-<tspan x="10" y="378"> 19.  2017-04-19 02:21:05 +0000     1838 bytes  __tests__/src/rules/heading-has-content-test.js</tspan>
-<tspan x="10" y="394"> 20.  2017-04-19 02:21:05 +0000     7962 bytes  __tests__/src/rules/href-no-hash-test.js</tspan>
-<tspan x="10" y="410"> 21.  2017-04-19 02:21:05 +0000     1273 bytes  __tests__/src/rules/html-has-lang-test.js</tspan>
-<tspan x="10" y="426"> 22.  2017-04-19 02:21:05 +0000     1712 bytes  __tests__/src/rules/iframe-has-title-test.js</tspan>
-<tspan x="10" y="442"> 23.  2017-04-19 02:21:05 +0000     6478 bytes  __tests__/src/rules/img-has-alt-test.js</tspan>
-<tspan x="10" y="458"> 24.  2017-04-19 02:21:05 +0000     4585 bytes  __tests__/src/rules/img-redundant-alt-test.js</tspan>
-<tspan x="10" y="474"> 25.  2017-04-19 02:21:05 +0000     3738 bytes  __tests__/src/rules/label-has-for-test.js</tspan>
-<tspan x="10" y="490"> 26.  2017-04-19 02:21:05 +0000     1357 bytes  __tests__/src/rules/lang-test.js</tspan>
-<tspan x="10" y="506"> 27.  2017-04-19 02:21:05 +0000     2402 bytes  __tests__/src/rules/mouse-events-have-key-events\</tspan>
+<tspan x="10" y="378"> 19.  2017-04-19 02:22:10 +0000     1838 bytes  __tests__/src/rules/heading-has-content-test.js</tspan>
+<tspan x="10" y="394"> 20.  2017-04-19 02:22:10 +0000     7962 bytes  __tests__/src/rules/href-no-hash-test.js</tspan>
+<tspan x="10" y="410"> 21.  2017-04-19 02:22:10 +0000     1273 bytes  __tests__/src/rules/html-has-lang-test.js</tspan>
+<tspan x="10" y="426"> 22.  2017-04-19 02:22:10 +0000     1712 bytes  __tests__/src/rules/iframe-has-title-test.js</tspan>
+<tspan x="10" y="442"> 23.  2017-04-19 02:22:10 +0000     6478 bytes  __tests__/src/rules/img-has-alt-test.js</tspan>
+<tspan x="10" y="458"> 24.  2017-04-19 02:22:10 +0000     4585 bytes  __tests__/src/rules/img-redundant-alt-test.js</tspan>
+<tspan x="10" y="474"> 25.  2017-04-19 02:22:10 +0000     3738 bytes  __tests__/src/rules/label-has-for-test.js</tspan>
+<tspan x="10" y="490"> 26.  2017-04-19 02:22:10 +0000     1357 bytes  __tests__/src/rules/lang-test.js</tspan>
+<tspan x="10" y="506"> 27.  2017-04-19 02:22:10 +0000     2402 bytes  __tests__/src/rules/mouse-events-have-key-events\</tspan>
 <tspan x="10" y="522">-test.js</tspan>
-<tspan x="10" y="538"> 28.  2017-04-19 02:21:05 +0000     1932 bytes  __tests__/src/rules/no-access-key-test.js</tspan>
-<tspan x="10" y="554"> 29.  2017-04-19 02:21:05 +0000     1526 bytes  __tests__/src/rules/no-autofocus-test.js</tspan>
-<tspan x="10" y="570"> 30.  2017-04-19 02:21:05 +0000     1562 bytes  __tests__/src/rules/no-distracting-elements-test\</tspan>
+<tspan x="10" y="538"> 28.  2017-04-19 02:22:10 +0000     1932 bytes  __tests__/src/rules/no-access-key-test.js</tspan>
+<tspan x="10" y="554"> 29.  2017-04-19 02:22:10 +0000     1526 bytes  __tests__/src/rules/no-autofocus-test.js</tspan>
+<tspan x="10" y="570"> 30.  2017-04-19 02:22:10 +0000     1562 bytes  __tests__/src/rules/no-distracting-elements-test\</tspan>
 <tspan x="10" y="586">.js</tspan>
-<tspan x="10" y="602"> 31.  2017-04-19 02:21:05 +0000     1829 bytes  __tests__/src/rules/no-onchange-test.js</tspan>
-<tspan x="10" y="618"> 32.  2017-04-19 02:21:05 +0000     1529 bytes  __tests__/src/rules/no-redundant-roles-test.js</tspan>
-<tspan x="10" y="634"> 33.  2017-04-19 02:21:05 +0000     2837 bytes  __tests__/src/rules/no-static-element-interactio\</tspan>
+<tspan x="10" y="602"> 31.  2017-04-19 02:22:10 +0000     1829 bytes  __tests__/src/rules/no-onchange-test.js</tspan>
+<tspan x="10" y="618"> 32.  2017-04-19 02:22:10 +0000     1529 bytes  __tests__/src/rules/no-redundant-roles-test.js</tspan>
+<tspan x="10" y="634"> 33.  2017-04-19 02:22:10 +0000     2837 bytes  __tests__/src/rules/no-static-element-interactio\</tspan>
 <tspan x="10" y="650">ns-test.js</tspan>
-<tspan x="10" y="666"> 34.  2017-04-19 02:21:05 +0000     7747 bytes  __tests__/src/rules/onclick-has-focus-test.js</tspan>
-<tspan x="10" y="682"> 35.  2017-04-19 02:21:05 +0000     3324 bytes  __tests__/src/rules/onclick-has-role-test.js</tspan>
-<tspan x="10" y="698"> 36.  2017-04-19 02:21:05 +0000     4385 bytes  __tests__/src/rules/role-has-required-aria-props\</tspan>
+<tspan x="10" y="666"> 34.  2017-04-19 02:22:10 +0000     7747 bytes  __tests__/src/rules/onclick-has-focus-test.js</tspan>
+<tspan x="10" y="682"> 35.  2017-04-19 02:22:10 +0000     3324 bytes  __tests__/src/rules/onclick-has-role-test.js</tspan>
+<tspan x="10" y="698"> 36.  2017-04-19 02:22:10 +0000     4385 bytes  __tests__/src/rules/role-has-required-aria-props\</tspan>
 <tspan x="10" y="714">-test.js</tspan>
-<tspan x="10" y="730"> 37.  2017-04-19 02:21:05 +0000    20425 bytes  __tests__/src/rules/role-supports-aria-props-tes\</tspan>
+<tspan x="10" y="730"> 37.  2017-04-19 02:22:10 +0000    20425 bytes  __tests__/src/rules/role-supports-aria-props-tes\</tspan>
 <tspan x="10" y="746">t.js</tspan>
-<tspan x="10" y="762"> 38.  2017-04-19 02:21:05 +0000     1210 bytes  __tests__/src/rules/scope-test.js</tspan>
-<tspan x="10" y="778"> 39.  2017-04-19 02:21:05 +0000     1985 bytes  __tests__/src/rules/tabindex-no-positive-test.js</tspan>
-<tspan x="10" y="794"> 40.  2017-04-19 02:21:05 +0000     1512 bytes  __tests__/src/util/getSuggestion-test.js</tspan>
-<tspan x="10" y="810"> 41.  2017-04-19 02:21:05 +0000     3549 bytes  __tests__/src/util/getTabIndex-test.js</tspan>
-<tspan x="10" y="826"> 42.  2017-04-19 02:21:05 +0000     1311 bytes  __tests__/src/util/isInteractiveElement-test.js</tspan>
-<tspan x="10" y="842"> 43.  2017-04-19 02:21:05 +0000     1775 bytes  __tests__/src/util/isInteractiveRole-test.js</tspan>
-<tspan x="10" y="858"> 44.  2017-04-19 02:21:05 +0000      987 bytes  __tests__/src/util/parserOptionsMapper-test.js</tspan>
-<tspan x="10" y="874"> 45.  2017-04-19 02:21:05 +0000      474 bytes  __tests__/src/util/schemas-test.js</tspan>
-<tspan x="10" y="890"> 46.  2017-04-19 02:21:05 +0000      810 bytes  docs/rules/accessible-emoji.md</tspan>
-<tspan x="10" y="906"> 47.  2017-04-19 02:21:05 +0000     1177 bytes  docs/rules/anchor-has-content.md</tspan>
-<tspan x="10" y="922"> 48.  2017-04-19 02:21:05 +0000     1855 bytes  docs/rules/aria-activedescendant-has-tabindex.md</tspan>
-<tspan x="10" y="938"> 49.  2017-04-19 02:21:05 +0000      636 bytes  docs/rules/aria-props.md</tspan>
-<tspan x="10" y="954"> 50.  2017-04-19 02:21:05 +0000      534 bytes  docs/rules/aria-proptypes.md</tspan>
-<tspan x="10" y="970"> 51.  2017-04-19 02:21:05 +0000      923 bytes  docs/rules/aria-role.md</tspan>
-<tspan x="10" y="986"> 52.  2017-04-19 02:21:05 +0000      723 bytes  docs/rules/aria-unsupported-elements.md</tspan>
-<tspan x="10" y="1002"> 53.  2017-04-19 02:21:05 +0000      569 bytes  docs/rules/click-events-have-key-events.md</tspan>
-<tspan x="10" y="1018"> 54.  2017-04-19 02:21:05 +0000     1313 bytes  docs/rules/heading-has-content.md</tspan>
-<tspan x="10" y="1034"> 55.  2017-04-19 02:21:05 +0000     1107 bytes  docs/rules/href-no-hash.md</tspan>
-<tspan x="10" y="1050"> 56.  2017-04-19 02:21:05 +0000      311 bytes  docs/rules/html-has-lang.md</tspan>
-<tspan x="10" y="1066"> 57.  2017-04-19 02:21:05 +0000      568 bytes  docs/rules/iframe-has-title.md</tspan>
-<tspan x="10" y="1082"> 58.  2017-04-19 02:21:05 +0000     2072 bytes  docs/rules/img-has-alt.md</tspan>
-<tspan x="10" y="1098"> 59.  2017-04-19 02:21:05 +0000     1584 bytes  docs/rules/img-redundant-alt.md</tspan>
-<tspan x="10" y="1114"> 60.  2017-04-19 02:21:05 +0000     1929 bytes  docs/rules/label-has-for.md</tspan>
-<tspan x="10" y="1130"> 61.  2017-04-19 02:21:05 +0000      516 bytes  docs/rules/lang.md</tspan>
-<tspan x="10" y="1146"> 62.  2017-04-19 02:21:05 +0000      947 bytes  docs/rules/mouse-events-have-key-events.md</tspan>
-<tspan x="10" y="1162"> 63.  2017-04-19 02:21:05 +0000      479 bytes  docs/rules/no-access-key.md</tspan>
-<tspan x="10" y="1178"> 64.  2017-04-19 02:21:05 +0000      481 bytes  docs/rules/no-autofocus.md</tspan>
-<tspan x="10" y="1194"> 65.  2017-04-19 02:21:05 +0000     1265 bytes  docs/rules/no-distracting-elements.md</tspan>
-<tspan x="10" y="1210"> 66.  2017-04-19 02:21:05 +0000     1119 bytes  docs/rules/no-onchange.md</tspan>
-<tspan x="10" y="1226"> 67.  2017-04-19 02:21:05 +0000      557 bytes  docs/rules/no-redundant-roles.md</tspan>
-<tspan x="10" y="1242"> 68.  2017-04-19 02:21:05 +0000      741 bytes  docs/rules/no-static-element-interactions.md</tspan>
-<tspan x="10" y="1258"> 69.  2017-04-19 02:21:05 +0000     2275 bytes  docs/rules/onclick-has-focus.md</tspan>
-<tspan x="10" y="1274"> 70.  2017-04-19 02:21:05 +0000     1866 bytes  docs/rules/onclick-has-role.md</tspan>
-<tspan x="10" y="1290"> 71.  2017-04-19 02:21:05 +0000      651 bytes  docs/rules/role-has-required-aria-props.md</tspan>
-<tspan x="10" y="1306"> 72.  2017-04-19 02:21:05 +0000     1391 bytes  docs/rules/role-supports-aria-props.md</tspan>
-<tspan x="10" y="1322"> 73.  2017-04-19 02:21:05 +0000      303 bytes  docs/rules/scope.md</tspan>
-<tspan x="10" y="1338"> 74.  2017-04-19 02:21:05 +0000      590 bytes  docs/rules/tabindex-no-positive.md</tspan>
-<tspan x="10" y="1354"> 75.  2017-04-19 02:21:05 +0000      118 bytes  flow/eslint.js</tspan>
-<tspan x="10" y="1370"> 76.  2017-04-19 02:21:05 +0000     3422 bytes  lib/index.js</tspan>
-<tspan x="10" y="1386"> 77.  2017-04-19 02:21:05 +0000     2345 bytes  lib/rules/accessible-emoji.js</tspan>
-<tspan x="10" y="1402"> 78.  2017-04-19 02:21:05 +0000     2588 bytes  lib/rules/anchor-has-content.js</tspan>
-<tspan x="10" y="1418"> 79.  2017-04-19 02:21:05 +0000     3095 bytes  lib/rules/aria-activedescendant-has-tabindex.js</tspan>
-<tspan x="10" y="1434"> 80.  2017-04-19 02:21:05 +0000     2531 bytes  lib/rules/aria-props.js</tspan>
-<tspan x="10" y="1450"> 81.  2017-04-19 02:21:05 +0000     3312 bytes  lib/rules/aria-proptypes.js</tspan>
-<tspan x="10" y="1466"> 82.  2017-04-19 02:21:05 +0000     3091 bytes  lib/rules/aria-role.js</tspan>
-<tspan x="10" y="1482"> 83.  2017-04-19 02:21:05 +0000     2891 bytes  lib/rules/aria-unsupported-elements.js</tspan>
-<tspan x="10" y="1498"> 84.  2017-04-19 02:21:05 +0000     1933 bytes  lib/rules/click-events-have-key-events.js</tspan>
-<tspan x="10" y="1514"> 85.  2017-04-19 02:21:05 +0000     2541 bytes  lib/rules/heading-has-content.js</tspan>
-<tspan x="10" y="1530"> 86.  2017-04-19 02:21:05 +0000     1718 bytes  lib/rules/href-no-hash.js</tspan>
-<tspan x="10" y="1546"> 87.  2017-04-19 02:21:05 +0000     1053 bytes  lib/rules/html-has-lang.js</tspan>
-<tspan x="10" y="1562"> 88.  2017-04-19 02:21:05 +0000     1111 bytes  lib/rules/iframe-has-title.js</tspan>
-<tspan x="10" y="1578"> 89.  2017-04-19 02:21:05 +0000     2399 bytes  lib/rules/img-has-alt.js</tspan>
-<tspan x="10" y="1594"> 90.  2017-04-19 02:21:05 +0000     2729 bytes  lib/rules/img-redundant-alt.js</tspan>
-<tspan x="10" y="1610"> 91.  2017-04-19 02:21:05 +0000     1529 bytes  lib/rules/label-has-for.js</tspan>
-<tspan x="10" y="1626"> 92.  2017-04-19 02:21:05 +0000     2105 bytes  lib/rules/lang.js</tspan>
-<tspan x="10" y="1642"> 93.  2017-04-19 02:21:05 +0000     2224 bytes  lib/rules/mouse-events-have-key-events.js</tspan>
-<tspan x="10" y="1658"> 94.  2017-04-19 02:21:05 +0000     1136 bytes  lib/rules/no-access-key.js</tspan>
-<tspan x="10" y="1674"> 95.  2017-04-19 02:21:05 +0000     1020 bytes  lib/rules/no-autofocus.js</tspan>
-<tspan x="10" y="1690"> 96.  2017-04-19 02:21:05 +0000     1365 bytes  lib/rules/no-distracting-elements.js</tspan>
-<tspan x="10" y="1706"> 97.  2017-04-19 02:21:05 +0000     1334 bytes  lib/rules/no-onchange.js</tspan>
-<tspan x="10" y="1722"> 98.  2017-04-19 02:21:05 +0000     1733 bytes  lib/rules/no-redundant-roles.js</tspan>
-<tspan x="10" y="1738"> 99.  2017-04-19 02:21:05 +0000     1818 bytes  lib/rules/no-static-element-interactions.js</tspan>
-<tspan x="10" y="1754">100.  2017-04-19 02:21:05 +0000     2626 bytes  lib/rules/onclick-has-focus.js</tspan>
-<tspan x="10" y="1770">101.  2017-04-19 02:21:05 +0000     1856 bytes  lib/rules/onclick-has-role.js</tspan>
-<tspan x="10" y="1786">102.  2017-04-19 02:21:05 +0000     3316 bytes  lib/rules/role-has-required-aria-props.js</tspan>
-<tspan x="10" y="1802">103.  2017-04-19 02:21:05 +0000     3942 bytes  lib/rules/role-supports-aria-props.js</tspan>
-<tspan x="10" y="1818">104.  2017-04-19 02:21:05 +0000     2171 bytes  lib/rules/scope.js</tspan>
-<tspan x="10" y="1834">105.  2017-04-19 02:21:05 +0000     1268 bytes  lib/rules/tabindex-no-positive.js</tspan>
-<tspan x="10" y="1850">106.  2017-04-19 02:21:05 +0000     3886 bytes  lib/util/attributes/ISO.json</tspan>
-<tspan x="10" y="1866">107.  2017-04-19 02:21:05 +0000      900 bytes  lib/util/getImplicitRole.js</tspan>
-<tspan x="10" y="1882">108.  2017-04-19 02:21:05 +0000     1281 bytes  lib/util/getSuggestion.js</tspan>
-<tspan x="10" y="1898">109.  2017-04-19 02:21:05 +0000     1245 bytes  lib/util/getTabIndex.js</tspan>
-<tspan x="10" y="1914">110.  2017-04-19 02:21:05 +0000      368 bytes  lib/util/implicitRoles/a.js</tspan>
-<tspan x="10" y="1930">111.  2017-04-19 02:21:05 +0000      362 bytes  lib/util/implicitRoles/area.js</tspan>
-<tspan x="10" y="1946">112.  2017-04-19 02:21:05 +0000      242 bytes  lib/util/implicitRoles/article.js</tspan>
-<tspan x="10" y="1962">113.  2017-04-19 02:21:05 +0000      242 bytes  lib/util/implicitRoles/aside.js</tspan>
-<tspan x="10" y="1978">114.  2017-04-19 02:21:05 +0000      233 bytes  lib/util/implicitRoles/body.js</tspan>
-<tspan x="10" y="1994">115.  2017-04-19 02:21:05 +0000      237 bytes  lib/util/implicitRoles/button.js</tspan>
-<tspan x="10" y="2010">116.  2017-04-19 02:21:05 +0000      244 bytes  lib/util/implicitRoles/datalist.js</tspan>
-<tspan x="10" y="2026">117.  2017-04-19 02:21:05 +0000      239 bytes  lib/util/implicitRoles/details.js</tspan>
-<tspan x="10" y="2042">118.  2017-04-19 02:21:05 +0000      237 bytes  lib/util/implicitRoles/dialog.js</tspan>
-<tspan x="10" y="2058">119.  2017-04-19 02:21:05 +0000      223 bytes  lib/util/implicitRoles/dl.js</tspan>
-<tspan x="10" y="2074">120.  2017-04-19 02:21:05 +0000      229 bytes  lib/util/implicitRoles/form.js</tspan>
-<tspan x="10" y="2090">121.  2017-04-19 02:21:05 +0000      227 bytes  lib/util/implicitRoles/h1.js</tspan>
-<tspan x="10" y="2106">122.  2017-04-19 02:21:05 +0000      227 bytes  lib/util/implicitRoles/h2.js</tspan>
-<tspan x="10" y="2122">123.  2017-04-19 02:21:05 +0000      227 bytes  lib/util/implicitRoles/h3.js</tspan>
-<tspan x="10" y="2138">124.  2017-04-19 02:21:05 +0000      227 bytes  lib/util/implicitRoles/h4.js</tspan>
-<tspan x="10" y="2154">125.  2017-04-19 02:21:05 +0000      227 bytes  lib/util/implicitRoles/h5.js</tspan>
-<tspan x="10" y="2170">126.  2017-04-19 02:21:05 +0000      226 bytes  lib/util/implicitRoles/h6.js</tspan>
-<tspan x="10" y="2186">127.  2017-04-19 02:21:05 +0000      229 bytes  lib/util/implicitRoles/hr.js</tspan>
-<tspan x="10" y="2202">128.  2017-04-19 02:21:05 +0000      440 bytes  lib/util/implicitRoles/img.js</tspan>
-<tspan x="10" y="2218">129.  2017-04-19 02:21:05 +0000     4012 bytes  lib/util/implicitRoles/index.js</tspan>
-<tspan x="10" y="2234">130.  2017-04-19 02:21:05 +0000      983 bytes  lib/util/implicitRoles/input.js</tspan>
-<tspan x="10" y="2250">131.  2017-04-19 02:21:05 +0000      228 bytes  lib/util/implicitRoles/li.js</tspan>
-<tspan x="10" y="2266">132.  2017-04-19 02:21:05 +0000      361 bytes  lib/util/implicitRoles/link.js</tspan>
-<tspan x="10" y="2282">133.  2017-04-19 02:21:05 +0000      496 bytes  lib/util/implicitRoles/menu.js</tspan>
-<tspan x="10" y="2298">134.  2017-04-19 02:21:05 +0000      676 bytes  lib/util/implicitRoles/menuitem.js</tspan>
-<tspan x="10" y="2314">135.  2017-04-19 02:21:05 +0000      239 bytes  lib/util/implicitRoles/meter.js</tspan>
-<tspan x="10" y="2330">136.  2017-04-19 02:21:05 +0000      232 bytes  lib/util/implicitRoles/nav.js</tspan>
-<tspan x="10" y="2346">137.  2017-04-19 02:21:05 +0000      224 bytes  lib/util/implicitRoles/ol.js</tspan>
-<tspan x="10" y="2362">138.  2017-04-19 02:21:05 +0000      238 bytes  lib/util/implicitRoles/option.js</tspan>
-<tspan x="10" y="2378">139.  2017-04-19 02:21:05 +0000      238 bytes  lib/util/implicitRoles/output.js</tspan>
-<tspan x="10" y="2394">140.  2017-04-19 02:21:05 +0000      248 bytes  lib/util/implicitRoles/progress.js</tspan>
-<tspan x="10" y="2410">141.  2017-04-19 02:21:05 +0000      240 bytes  lib/util/implicitRoles/section.js</tspan>
-<tspan x="10" y="2426">142.  2017-04-19 02:21:05 +0000      238 bytes  lib/util/implicitRoles/select.js</tspan>
-<tspan x="10" y="2442">143.  2017-04-19 02:21:05 +0000      236 bytes  lib/util/implicitRoles/tbody.js</tspan>
-<tspan x="10" y="2458">144.  2017-04-19 02:21:05 +0000      244 bytes  lib/util/implicitRoles/textarea.js</tspan>
-<tspan x="10" y="2474">145.  2017-04-19 02:21:05 +0000      236 bytes  lib/util/implicitRoles/tfoot.js</tspan>
-<tspan x="10" y="2490">146.  2017-04-19 02:21:05 +0000      236 bytes  lib/util/implicitRoles/thead.js</tspan>
-<tspan x="10" y="2506">147.  2017-04-19 02:21:05 +0000      223 bytes  lib/util/implicitRoles/ul.js</tspan>
-<tspan x="10" y="2522">148.  2017-04-19 02:21:05 +0000      869 bytes  lib/util/isHiddenFromScreenReader.js</tspan>
-<tspan x="10" y="2538">149.  2017-04-19 02:21:05 +0000     2685 bytes  lib/util/isInteractiveElement.js</tspan>
-<tspan x="10" y="2554">150.  2017-04-19 02:21:05 +0000     1938 bytes  lib/util/isInteractiveRole.js</tspan>
-<tspan x="10" y="2570">151.  2017-04-19 02:21:05 +0000     1315 bytes  lib/util/schemas.js</tspan>
-<tspan x="10" y="2586">152.  2017-04-19 02:21:05 +0000     4441 bytes  package.json</tspan>
-<tspan x="10" y="2602">153.  2017-04-19 02:21:05 +0000     1535 bytes  scripts/addRuleToIndex.js</tspan>
-<tspan x="10" y="2618">154.  2017-04-19 02:21:05 +0000      265 bytes  scripts/boilerplate/doc.js</tspan>
-<tspan x="10" y="2634">155.  2017-04-19 02:21:05 +0000      773 bytes  scripts/boilerplate/rule.js</tspan>
-<tspan x="10" y="2650">156.  2017-04-19 02:21:05 +0000      939 bytes  scripts/boilerplate/test.js</tspan>
-<tspan x="10" y="2666">157.  2017-04-19 02:21:05 +0000     1967 bytes  scripts/create-rule.js</tspan>
-<tspan x="10" y="2682">158.  2017-04-19 02:21:05 +0000      863 bytes  scripts/create-rule.md</tspan>
-<tspan x="10" y="2698">159.  2017-04-19 02:21:05 +0000     3415 bytes  src/index.js</tspan>
-<tspan x="10" y="2714">160.  2017-04-19 02:21:05 +0000     1563 bytes  src/rules/accessible-emoji.js</tspan>
-<tspan x="10" y="2730">161.  2017-04-19 02:21:05 +0000     1943 bytes  src/rules/anchor-has-content.js</tspan>
-<tspan x="10" y="2746">162.  2017-04-19 02:21:05 +0000     1879 bytes  src/rules/aria-activedescendant-has-tabindex.js</tspan>
-<tspan x="10" y="2762">163.  2017-04-19 02:21:05 +0000     1401 bytes  src/rules/aria-props.js</tspan>
-<tspan x="10" y="2778">164.  2017-04-19 02:21:05 +0000     3062 bytes  src/rules/aria-proptypes.js</tspan>
-<tspan x="10" y="2794">165.  2017-04-19 02:21:05 +0000     2013 bytes  src/rules/aria-role.js</tspan>
-<tspan x="10" y="2810">166.  2017-04-19 02:21:05 +0000     1620 bytes  src/rules/aria-unsupported-elements.js</tspan>
-<tspan x="10" y="2826">167.  2017-04-19 02:21:05 +0000     1495 bytes  src/rules/click-events-have-key-events.js</tspan>
-<tspan x="10" y="2842">168.  2017-04-19 02:21:05 +0000     1904 bytes  src/rules/heading-has-content.js</tspan>
-<tspan x="10" y="2858">169.  2017-04-19 02:21:05 +0000     1521 bytes  src/rules/href-no-hash.js</tspan>
-<tspan x="10" y="2874">170.  2017-04-19 02:21:05 +0000      926 bytes  src/rules/html-has-lang.js</tspan>
-<tspan x="10" y="2890">171.  2017-04-19 02:21:05 +0000      984 bytes  src/rules/iframe-has-title.js</tspan>
-<tspan x="10" y="2906">172.  2017-04-19 02:21:05 +0000     2209 bytes  src/rules/img-has-alt.js</tspan>
-<tspan x="10" y="2922">173.  2017-04-19 02:21:05 +0000     2148 bytes  src/rules/img-redundant-alt.js</tspan>
-<tspan x="10" y="2938">174.  2017-04-19 02:21:05 +0000     1408 bytes  src/rules/label-has-for.js</tspan>
-<tspan x="10" y="2954">175.  2017-04-19 02:21:05 +0000     1634 bytes  src/rules/lang.js</tspan>
-<tspan x="10" y="2970">176.  2017-04-19 02:21:05 +0000     1975 bytes  src/rules/mouse-events-have-key-events.js</tspan>
-<tspan x="10" y="2986">177.  2017-04-19 02:21:05 +0000     1026 bytes  src/rules/no-access-key.js</tspan>
-<tspan x="10" y="3002">178.  2017-04-19 02:21:05 +0000      920 bytes  src/rules/no-autofocus.js</tspan>
-<tspan x="10" y="3018">179.  2017-04-19 02:21:05 +0000     1198 bytes  src/rules/no-distracting-elements.js</tspan>
-<tspan x="10" y="3034">180.  2017-04-19 02:21:05 +0000     1208 bytes  src/rules/no-onchange.js</tspan>
-<tspan x="10" y="3050">181.  2017-04-19 02:21:05 +0000     1380 bytes  src/rules/no-redundant-roles.js</tspan>
-<tspan x="10" y="3066">182.  2017-04-19 02:21:05 +0000     1446 bytes  src/rules/no-static-element-interactions.js</tspan>
-<tspan x="10" y="3082">183.  2017-04-19 02:21:05 +0000     1994 bytes  src/rules/onclick-has-focus.js</tspan>
-<tspan x="10" y="3098">184.  2017-04-19 02:21:05 +0000     1404 bytes  src/rules/onclick-has-role.js</tspan>
-<tspan x="10" y="3114">185.  2017-04-19 02:21:05 +0000     2001 bytes  src/rules/role-has-required-aria-props.js</tspan>
-<tspan x="10" y="3130">186.  2017-04-19 02:21:05 +0000     2498 bytes  src/rules/role-supports-aria-props.js</tspan>
-<tspan x="10" y="3146">187.  2017-04-19 02:21:05 +0000     1214 bytes  src/rules/scope.js</tspan>
-<tspan x="10" y="3162">188.  2017-04-19 02:21:05 +0000     1161 bytes  src/rules/tabindex-no-positive.js</tspan>
-<tspan x="10" y="3178">189.  2017-04-19 02:21:05 +0000     3886 bytes  src/util/attributes/ISO.json</tspan>
-<tspan x="10" y="3194">190.  2017-04-19 02:21:05 +0000      618 bytes  src/util/getImplicitRole.js</tspan>
-<tspan x="10" y="3210">191.  2017-04-19 02:21:05 +0000      794 bytes  src/util/getSuggestion.js</tspan>
-<tspan x="10" y="3226">192.  2017-04-19 02:21:05 +0000      855 bytes  src/util/getTabIndex.js</tspan>
-<tspan x="10" y="3242">193.  2017-04-19 02:21:05 +0000      237 bytes  src/util/implicitRoles/a.js</tspan>
-<tspan x="10" y="3258">194.  2017-04-19 02:21:05 +0000      233 bytes  src/util/implicitRoles/area.js</tspan>
-<tspan x="10" y="3274">195.  2017-04-19 02:21:05 +0000      133 bytes  src/util/implicitRoles/article.js</tspan>
-<tspan x="10" y="3290">196.  2017-04-19 02:21:05 +0000      135 bytes  src/util/implicitRoles/aside.js</tspan>
-<tspan x="10" y="3306">197.  2017-04-19 02:21:05 +0000      127 bytes  src/util/implicitRoles/body.js</tspan>
-<tspan x="10" y="3322">198.  2017-04-19 02:21:05 +0000      129 bytes  src/util/implicitRoles/button.js</tspan>
-<tspan x="10" y="3338">199.  2017-04-19 02:21:05 +0000      134 bytes  src/util/implicitRoles/datalist.js</tspan>
-<tspan x="10" y="3354">200.  2017-04-19 02:21:05 +0000      130 bytes  src/util/implicitRoles/details.js</tspan>
-<tspan x="10" y="3370">201.  2017-04-19 02:21:05 +0000      129 bytes  src/util/implicitRoles/dialog.js</tspan>
-<tspan x="10" y="3386">202.  2017-04-19 02:21:05 +0000      119 bytes  src/util/implicitRoles/dl.js</tspan>
-<tspan x="10" y="3402">203.  2017-04-19 02:21:05 +0000      123 bytes  src/util/implicitRoles/form.js</tspan>
-<tspan x="10" y="3418">204.  2017-04-19 02:21:05 +0000      123 bytes  src/util/implicitRoles/h1.js</tspan>
-<tspan x="10" y="3434">205.  2017-04-19 02:21:05 +0000      123 bytes  src/util/implicitRoles/h2.js</tspan>
-<tspan x="10" y="3450">206.  2017-04-19 02:21:05 +0000      123 bytes  src/util/implicitRoles/h3.js</tspan>
-<tspan x="10" y="3466">207.  2017-04-19 02:21:05 +0000      123 bytes  src/util/implicitRoles/h4.js</tspan>
-<tspan x="10" y="3482">208.  2017-04-19 02:21:05 +0000      123 bytes  src/util/implicitRoles/h5.js</tspan>
-<tspan x="10" y="3498">209.  2017-04-19 02:21:05 +0000      122 bytes  src/util/implicitRoles/h6.js</tspan>
-<tspan x="10" y="3514">210.  2017-04-19 02:21:05 +0000      125 bytes  src/util/implicitRoles/hr.js</tspan>
-<tspan x="10" y="3530">211.  2017-04-19 02:21:05 +0000      317 bytes  src/util/implicitRoles/img.js</tspan>
-<tspan x="10" y="3546">212.  2017-04-19 02:21:05 +0000     1358 bytes  src/util/implicitRoles/index.js</tspan>
-<tspan x="10" y="3562">213.  2017-04-19 02:21:05 +0000      860 bytes  src/util/implicitRoles/input.js</tspan>
-<tspan x="10" y="3578">214.  2017-04-19 02:21:05 +0000      124 bytes  src/util/implicitRoles/li.js</tspan>
-<tspan x="10" y="3594">215.  2017-04-19 02:21:05 +0000      232 bytes  src/util/implicitRoles/link.js</tspan>
-<tspan x="10" y="3610">216.  2017-04-19 02:21:05 +0000      376 bytes  src/util/implicitRoles/menu.js</tspan>
-<tspan x="10" y="3626">217.  2017-04-19 02:21:05 +0000      550 bytes  src/util/implicitRoles/menuitem.js</tspan>
-<tspan x="10" y="3642">218.  2017-04-19 02:21:05 +0000      132 bytes  src/util/implicitRoles/meter.js</tspan>
-<tspan x="10" y="3658">219.  2017-04-19 02:21:05 +0000      127 bytes  src/util/implicitRoles/nav.js</tspan>
-<tspan x="10" y="3674">220.  2017-04-19 02:21:05 +0000      120 bytes  src/util/implicitRoles/ol.js</tspan>
-<tspan x="10" y="3690">221.  2017-04-19 02:21:05 +0000      130 bytes  src/util/implicitRoles/option.js</tspan>
-<tspan x="10" y="3706">222.  2017-04-19 02:21:05 +0000      130 bytes  src/util/implicitRoles/output.js</tspan>
-<tspan x="10" y="3722">223.  2017-04-19 02:21:05 +0000      138 bytes  src/util/implicitRoles/progress.js</tspan>
-<tspan x="10" y="3738">224.  2017-04-19 02:21:05 +0000      131 bytes  src/util/implicitRoles/section.js</tspan>
-<tspan x="10" y="3754">225.  2017-04-19 02:21:05 +0000      130 bytes  src/util/implicitRoles/select.js</tspan>
-<tspan x="10" y="3770">226.  2017-04-19 02:21:05 +0000      129 bytes  src/util/implicitRoles/tbody.js</tspan>
-<tspan x="10" y="3786">227.  2017-04-19 02:21:05 +0000      134 bytes  src/util/implicitRoles/textarea.js</tspan>
-<tspan x="10" y="3802">228.  2017-04-19 02:21:05 +0000      129 bytes  src/util/implicitRoles/tfoot.js</tspan>
-<tspan x="10" y="3818">229.  2017-04-19 02:21:05 +0000      129 bytes  src/util/implicitRoles/thead.js</tspan>
-<tspan x="10" y="3834">230.  2017-04-19 02:21:05 +0000      119 bytes  src/util/implicitRoles/ul.js</tspan>
-<tspan x="10" y="3850">231.  2017-04-19 02:21:05 +0000      721 bytes  src/util/isHiddenFromScreenReader.js</tspan>
-<tspan x="10" y="3866">232.  2017-04-19 02:21:05 +0000     1721 bytes  src/util/isInteractiveElement.js</tspan>
-<tspan x="10" y="3882">233.  2017-04-19 02:21:05 +0000     1510 bytes  src/util/isInteractiveRole.js</tspan>
-<tspan x="10" y="3898">234.  2017-04-19 02:21:05 +0000      665 bytes  src/util/schemas.js</tspan>
-<tspan x="10" y="3914">235.  2017-04-19 02:21:05 +0000   146729 bytes  yarn.lock</tspan>
+<tspan x="10" y="762"> 38.  2017-04-19 02:22:10 +0000     1210 bytes  __tests__/src/rules/scope-test.js</tspan>
+<tspan x="10" y="778"> 39.  2017-04-19 02:22:10 +0000     1985 bytes  __tests__/src/rules/tabindex-no-positive-test.js</tspan>
+<tspan x="10" y="794"> 40.  2017-04-19 02:22:10 +0000     1512 bytes  __tests__/src/util/getSuggestion-test.js</tspan>
+<tspan x="10" y="810"> 41.  2017-04-19 02:22:10 +0000     3549 bytes  __tests__/src/util/getTabIndex-test.js</tspan>
+<tspan x="10" y="826"> 42.  2017-04-19 02:22:10 +0000     1311 bytes  __tests__/src/util/isInteractiveElement-test.js</tspan>
+<tspan x="10" y="842"> 43.  2017-04-19 02:22:10 +0000     1775 bytes  __tests__/src/util/isInteractiveRole-test.js</tspan>
+<tspan x="10" y="858"> 44.  2017-04-19 02:22:10 +0000      987 bytes  __tests__/src/util/parserOptionsMapper-test.js</tspan>
+<tspan x="10" y="874"> 45.  2017-04-19 02:22:10 +0000      474 bytes  __tests__/src/util/schemas-test.js</tspan>
+<tspan x="10" y="890"> 46.  2017-04-19 02:22:10 +0000      810 bytes  docs/rules/accessible-emoji.md</tspan>
+<tspan x="10" y="906"> 47.  2017-04-19 02:22:10 +0000     1177 bytes  docs/rules/anchor-has-content.md</tspan>
+<tspan x="10" y="922"> 48.  2017-04-19 02:22:10 +0000     1855 bytes  docs/rules/aria-activedescendant-has-tabindex.md</tspan>
+<tspan x="10" y="938"> 49.  2017-04-19 02:22:10 +0000      636 bytes  docs/rules/aria-props.md</tspan>
+<tspan x="10" y="954"> 50.  2017-04-19 02:22:10 +0000      534 bytes  docs/rules/aria-proptypes.md</tspan>
+<tspan x="10" y="970"> 51.  2017-04-19 02:22:10 +0000      923 bytes  docs/rules/aria-role.md</tspan>
+<tspan x="10" y="986"> 52.  2017-04-19 02:22:10 +0000      723 bytes  docs/rules/aria-unsupported-elements.md</tspan>
+<tspan x="10" y="1002"> 53.  2017-04-19 02:22:10 +0000      569 bytes  docs/rules/click-events-have-key-events.md</tspan>
+<tspan x="10" y="1018"> 54.  2017-04-19 02:22:10 +0000     1313 bytes  docs/rules/heading-has-content.md</tspan>
+<tspan x="10" y="1034"> 55.  2017-04-19 02:22:10 +0000     1107 bytes  docs/rules/href-no-hash.md</tspan>
+<tspan x="10" y="1050"> 56.  2017-04-19 02:22:10 +0000      311 bytes  docs/rules/html-has-lang.md</tspan>
+<tspan x="10" y="1066"> 57.  2017-04-19 02:22:10 +0000      568 bytes  docs/rules/iframe-has-title.md</tspan>
+<tspan x="10" y="1082"> 58.  2017-04-19 02:22:10 +0000     2072 bytes  docs/rules/img-has-alt.md</tspan>
+<tspan x="10" y="1098"> 59.  2017-04-19 02:22:10 +0000     1584 bytes  docs/rules/img-redundant-alt.md</tspan>
+<tspan x="10" y="1114"> 60.  2017-04-19 02:22:10 +0000     1929 bytes  docs/rules/label-has-for.md</tspan>
+<tspan x="10" y="1130"> 61.  2017-04-19 02:22:10 +0000      516 bytes  docs/rules/lang.md</tspan>
+<tspan x="10" y="1146"> 62.  2017-04-19 02:22:10 +0000      947 bytes  docs/rules/mouse-events-have-key-events.md</tspan>
+<tspan x="10" y="1162"> 63.  2017-04-19 02:22:10 +0000      479 bytes  docs/rules/no-access-key.md</tspan>
+<tspan x="10" y="1178"> 64.  2017-04-19 02:22:10 +0000      481 bytes  docs/rules/no-autofocus.md</tspan>
+<tspan x="10" y="1194"> 65.  2017-04-19 02:22:10 +0000     1265 bytes  docs/rules/no-distracting-elements.md</tspan>
+<tspan x="10" y="1210"> 66.  2017-04-19 02:22:10 +0000     1119 bytes  docs/rules/no-onchange.md</tspan>
+<tspan x="10" y="1226"> 67.  2017-04-19 02:22:10 +0000      557 bytes  docs/rules/no-redundant-roles.md</tspan>
+<tspan x="10" y="1242"> 68.  2017-04-19 02:22:10 +0000      741 bytes  docs/rules/no-static-element-interactions.md</tspan>
+<tspan x="10" y="1258"> 69.  2017-04-19 02:22:10 +0000     2275 bytes  docs/rules/onclick-has-focus.md</tspan>
+<tspan x="10" y="1274"> 70.  2017-04-19 02:22:10 +0000     1866 bytes  docs/rules/onclick-has-role.md</tspan>
+<tspan x="10" y="1290"> 71.  2017-04-19 02:22:10 +0000      651 bytes  docs/rules/role-has-required-aria-props.md</tspan>
+<tspan x="10" y="1306"> 72.  2017-04-19 02:22:10 +0000     1391 bytes  docs/rules/role-supports-aria-props.md</tspan>
+<tspan x="10" y="1322"> 73.  2017-04-19 02:22:10 +0000      303 bytes  docs/rules/scope.md</tspan>
+<tspan x="10" y="1338"> 74.  2017-04-19 02:22:10 +0000      590 bytes  docs/rules/tabindex-no-positive.md</tspan>
+<tspan x="10" y="1354"> 75.  2017-04-19 02:22:10 +0000      118 bytes  flow/eslint.js</tspan>
+<tspan x="10" y="1370"> 76.  2017-04-19 02:22:10 +0000     3422 bytes  lib/index.js</tspan>
+<tspan x="10" y="1386"> 77.  2017-04-19 02:22:10 +0000     2345 bytes  lib/rules/accessible-emoji.js</tspan>
+<tspan x="10" y="1402"> 78.  2017-04-19 02:22:10 +0000     2588 bytes  lib/rules/anchor-has-content.js</tspan>
+<tspan x="10" y="1418"> 79.  2017-04-19 02:22:10 +0000     3095 bytes  lib/rules/aria-activedescendant-has-tabindex.js</tspan>
+<tspan x="10" y="1434"> 80.  2017-04-19 02:22:10 +0000     2531 bytes  lib/rules/aria-props.js</tspan>
+<tspan x="10" y="1450"> 81.  2017-04-19 02:22:10 +0000     3312 bytes  lib/rules/aria-proptypes.js</tspan>
+<tspan x="10" y="1466"> 82.  2017-04-19 02:22:10 +0000     3091 bytes  lib/rules/aria-role.js</tspan>
+<tspan x="10" y="1482"> 83.  2017-04-19 02:22:10 +0000     2891 bytes  lib/rules/aria-unsupported-elements.js</tspan>
+<tspan x="10" y="1498"> 84.  2017-04-19 02:22:10 +0000     1933 bytes  lib/rules/click-events-have-key-events.js</tspan>
+<tspan x="10" y="1514"> 85.  2017-04-19 02:22:10 +0000     2541 bytes  lib/rules/heading-has-content.js</tspan>
+<tspan x="10" y="1530"> 86.  2017-04-19 02:22:10 +0000     1718 bytes  lib/rules/href-no-hash.js</tspan>
+<tspan x="10" y="1546"> 87.  2017-04-19 02:22:10 +0000     1053 bytes  lib/rules/html-has-lang.js</tspan>
+<tspan x="10" y="1562"> 88.  2017-04-19 02:22:10 +0000     1111 bytes  lib/rules/iframe-has-title.js</tspan>
+<tspan x="10" y="1578"> 89.  2017-04-19 02:22:10 +0000     2399 bytes  lib/rules/img-has-alt.js</tspan>
+<tspan x="10" y="1594"> 90.  2017-04-19 02:22:10 +0000     2729 bytes  lib/rules/img-redundant-alt.js</tspan>
+<tspan x="10" y="1610"> 91.  2017-04-19 02:22:10 +0000     1529 bytes  lib/rules/label-has-for.js</tspan>
+<tspan x="10" y="1626"> 92.  2017-04-19 02:22:10 +0000     2105 bytes  lib/rules/lang.js</tspan>
+<tspan x="10" y="1642"> 93.  2017-04-19 02:22:10 +0000     2224 bytes  lib/rules/mouse-events-have-key-events.js</tspan>
+<tspan x="10" y="1658"> 94.  2017-04-19 02:22:10 +0000     1136 bytes  lib/rules/no-access-key.js</tspan>
+<tspan x="10" y="1674"> 95.  2017-04-19 02:22:10 +0000     1020 bytes  lib/rules/no-autofocus.js</tspan>
+<tspan x="10" y="1690"> 96.  2017-04-19 02:22:10 +0000     1365 bytes  lib/rules/no-distracting-elements.js</tspan>
+<tspan x="10" y="1706"> 97.  2017-04-19 02:22:10 +0000     1334 bytes  lib/rules/no-onchange.js</tspan>
+<tspan x="10" y="1722"> 98.  2017-04-19 02:22:10 +0000     1733 bytes  lib/rules/no-redundant-roles.js</tspan>
+<tspan x="10" y="1738"> 99.  2017-04-19 02:22:10 +0000     1818 bytes  lib/rules/no-static-element-interactions.js</tspan>
+<tspan x="10" y="1754">100.  2017-04-19 02:22:10 +0000     2626 bytes  lib/rules/onclick-has-focus.js</tspan>
+<tspan x="10" y="1770">101.  2017-04-19 02:22:10 +0000     1856 bytes  lib/rules/onclick-has-role.js</tspan>
+<tspan x="10" y="1786">102.  2017-04-19 02:22:10 +0000     3316 bytes  lib/rules/role-has-required-aria-props.js</tspan>
+<tspan x="10" y="1802">103.  2017-04-19 02:22:10 +0000     3942 bytes  lib/rules/role-supports-aria-props.js</tspan>
+<tspan x="10" y="1818">104.  2017-04-19 02:22:10 +0000     2171 bytes  lib/rules/scope.js</tspan>
+<tspan x="10" y="1834">105.  2017-04-19 02:22:10 +0000     1268 bytes  lib/rules/tabindex-no-positive.js</tspan>
+<tspan x="10" y="1850">106.  2017-04-19 02:22:10 +0000     3886 bytes  lib/util/attributes/ISO.json</tspan>
+<tspan x="10" y="1866">107.  2017-04-19 02:22:10 +0000      900 bytes  lib/util/getImplicitRole.js</tspan>
+<tspan x="10" y="1882">108.  2017-04-19 02:22:10 +0000     1281 bytes  lib/util/getSuggestion.js</tspan>
+<tspan x="10" y="1898">109.  2017-04-19 02:22:10 +0000     1245 bytes  lib/util/getTabIndex.js</tspan>
+<tspan x="10" y="1914">110.  2017-04-19 02:22:10 +0000      368 bytes  lib/util/implicitRoles/a.js</tspan>
+<tspan x="10" y="1930">111.  2017-04-19 02:22:10 +0000      362 bytes  lib/util/implicitRoles/area.js</tspan>
+<tspan x="10" y="1946">112.  2017-04-19 02:22:10 +0000      242 bytes  lib/util/implicitRoles/article.js</tspan>
+<tspan x="10" y="1962">113.  2017-04-19 02:22:10 +0000      242 bytes  lib/util/implicitRoles/aside.js</tspan>
+<tspan x="10" y="1978">114.  2017-04-19 02:22:10 +0000      233 bytes  lib/util/implicitRoles/body.js</tspan>
+<tspan x="10" y="1994">115.  2017-04-19 02:22:10 +0000      237 bytes  lib/util/implicitRoles/button.js</tspan>
+<tspan x="10" y="2010">116.  2017-04-19 02:22:10 +0000      244 bytes  lib/util/implicitRoles/datalist.js</tspan>
+<tspan x="10" y="2026">117.  2017-04-19 02:22:10 +0000      239 bytes  lib/util/implicitRoles/details.js</tspan>
+<tspan x="10" y="2042">118.  2017-04-19 02:22:10 +0000      237 bytes  lib/util/implicitRoles/dialog.js</tspan>
+<tspan x="10" y="2058">119.  2017-04-19 02:22:10 +0000      223 bytes  lib/util/implicitRoles/dl.js</tspan>
+<tspan x="10" y="2074">120.  2017-04-19 02:22:10 +0000      229 bytes  lib/util/implicitRoles/form.js</tspan>
+<tspan x="10" y="2090">121.  2017-04-19 02:22:10 +0000      227 bytes  lib/util/implicitRoles/h1.js</tspan>
+<tspan x="10" y="2106">122.  2017-04-19 02:22:10 +0000      227 bytes  lib/util/implicitRoles/h2.js</tspan>
+<tspan x="10" y="2122">123.  2017-04-19 02:22:10 +0000      227 bytes  lib/util/implicitRoles/h3.js</tspan>
+<tspan x="10" y="2138">124.  2017-04-19 02:22:10 +0000      227 bytes  lib/util/implicitRoles/h4.js</tspan>
+<tspan x="10" y="2154">125.  2017-04-19 02:22:10 +0000      227 bytes  lib/util/implicitRoles/h5.js</tspan>
+<tspan x="10" y="2170">126.  2017-04-19 02:22:10 +0000      226 bytes  lib/util/implicitRoles/h6.js</tspan>
+<tspan x="10" y="2186">127.  2017-04-19 02:22:10 +0000      229 bytes  lib/util/implicitRoles/hr.js</tspan>
+<tspan x="10" y="2202">128.  2017-04-19 02:22:10 +0000      440 bytes  lib/util/implicitRoles/img.js</tspan>
+<tspan x="10" y="2218">129.  2017-04-19 02:22:10 +0000     4012 bytes  lib/util/implicitRoles/index.js</tspan>
+<tspan x="10" y="2234">130.  2017-04-19 02:22:10 +0000      983 bytes  lib/util/implicitRoles/input.js</tspan>
+<tspan x="10" y="2250">131.  2017-04-19 02:22:10 +0000      228 bytes  lib/util/implicitRoles/li.js</tspan>
+<tspan x="10" y="2266">132.  2017-04-19 02:22:10 +0000      361 bytes  lib/util/implicitRoles/link.js</tspan>
+<tspan x="10" y="2282">133.  2017-04-19 02:22:10 +0000      496 bytes  lib/util/implicitRoles/menu.js</tspan>
+<tspan x="10" y="2298">134.  2017-04-19 02:22:10 +0000      676 bytes  lib/util/implicitRoles/menuitem.js</tspan>
+<tspan x="10" y="2314">135.  2017-04-19 02:22:10 +0000      239 bytes  lib/util/implicitRoles/meter.js</tspan>
+<tspan x="10" y="2330">136.  2017-04-19 02:22:10 +0000      232 bytes  lib/util/implicitRoles/nav.js</tspan>
+<tspan x="10" y="2346">137.  2017-04-19 02:22:10 +0000      224 bytes  lib/util/implicitRoles/ol.js</tspan>
+<tspan x="10" y="2362">138.  2017-04-19 02:22:10 +0000      238 bytes  lib/util/implicitRoles/option.js</tspan>
+<tspan x="10" y="2378">139.  2017-04-19 02:22:10 +0000      238 bytes  lib/util/implicitRoles/output.js</tspan>
+<tspan x="10" y="2394">140.  2017-04-19 02:22:10 +0000      248 bytes  lib/util/implicitRoles/progress.js</tspan>
+<tspan x="10" y="2410">141.  2017-04-19 02:22:10 +0000      240 bytes  lib/util/implicitRoles/section.js</tspan>
+<tspan x="10" y="2426">142.  2017-04-19 02:22:10 +0000      238 bytes  lib/util/implicitRoles/select.js</tspan>
+<tspan x="10" y="2442">143.  2017-04-19 02:22:10 +0000      236 bytes  lib/util/implicitRoles/tbody.js</tspan>
+<tspan x="10" y="2458">144.  2017-04-19 02:22:10 +0000      244 bytes  lib/util/implicitRoles/textarea.js</tspan>
+<tspan x="10" y="2474">145.  2017-04-19 02:22:10 +0000      236 bytes  lib/util/implicitRoles/tfoot.js</tspan>
+<tspan x="10" y="2490">146.  2017-04-19 02:22:10 +0000      236 bytes  lib/util/implicitRoles/thead.js</tspan>
+<tspan x="10" y="2506">147.  2017-04-19 02:22:10 +0000      223 bytes  lib/util/implicitRoles/ul.js</tspan>
+<tspan x="10" y="2522">148.  2017-04-19 02:22:10 +0000      869 bytes  lib/util/isHiddenFromScreenReader.js</tspan>
+<tspan x="10" y="2538">149.  2017-04-19 02:22:10 +0000     2685 bytes  lib/util/isInteractiveElement.js</tspan>
+<tspan x="10" y="2554">150.  2017-04-19 02:22:10 +0000     1938 bytes  lib/util/isInteractiveRole.js</tspan>
+<tspan x="10" y="2570">151.  2017-04-19 02:22:10 +0000     1315 bytes  lib/util/schemas.js</tspan>
+<tspan x="10" y="2586">152.  2017-04-19 02:22:10 +0000     4441 bytes  package.json</tspan>
+<tspan x="10" y="2602">153.  2017-04-19 02:22:10 +0000     1535 bytes  scripts/addRuleToIndex.js</tspan>
+<tspan x="10" y="2618">154.  2017-04-19 02:22:10 +0000      265 bytes  scripts/boilerplate/doc.js</tspan>
+<tspan x="10" y="2634">155.  2017-04-19 02:22:10 +0000      773 bytes  scripts/boilerplate/rule.js</tspan>
+<tspan x="10" y="2650">156.  2017-04-19 02:22:10 +0000      939 bytes  scripts/boilerplate/test.js</tspan>
+<tspan x="10" y="2666">157.  2017-04-19 02:22:10 +0000     1967 bytes  scripts/create-rule.js</tspan>
+<tspan x="10" y="2682">158.  2017-04-19 02:22:10 +0000      863 bytes  scripts/create-rule.md</tspan>
+<tspan x="10" y="2698">159.  2017-04-19 02:22:10 +0000     3415 bytes  src/index.js</tspan>
+<tspan x="10" y="2714">160.  2017-04-19 02:22:10 +0000     1563 bytes  src/rules/accessible-emoji.js</tspan>
+<tspan x="10" y="2730">161.  2017-04-19 02:22:10 +0000     1943 bytes  src/rules/anchor-has-content.js</tspan>
+<tspan x="10" y="2746">162.  2017-04-19 02:22:10 +0000     1879 bytes  src/rules/aria-activedescendant-has-tabindex.js</tspan>
+<tspan x="10" y="2762">163.  2017-04-19 02:22:10 +0000     1401 bytes  src/rules/aria-props.js</tspan>
+<tspan x="10" y="2778">164.  2017-04-19 02:22:10 +0000     3062 bytes  src/rules/aria-proptypes.js</tspan>
+<tspan x="10" y="2794">165.  2017-04-19 02:22:10 +0000     2013 bytes  src/rules/aria-role.js</tspan>
+<tspan x="10" y="2810">166.  2017-04-19 02:22:10 +0000     1620 bytes  src/rules/aria-unsupported-elements.js</tspan>
+<tspan x="10" y="2826">167.  2017-04-19 02:22:10 +0000     1495 bytes  src/rules/click-events-have-key-events.js</tspan>
+<tspan x="10" y="2842">168.  2017-04-19 02:22:10 +0000     1904 bytes  src/rules/heading-has-content.js</tspan>
+<tspan x="10" y="2858">169.  2017-04-19 02:22:10 +0000     1521 bytes  src/rules/href-no-hash.js</tspan>
+<tspan x="10" y="2874">170.  2017-04-19 02:22:10 +0000      926 bytes  src/rules/html-has-lang.js</tspan>
+<tspan x="10" y="2890">171.  2017-04-19 02:22:10 +0000      984 bytes  src/rules/iframe-has-title.js</tspan>
+<tspan x="10" y="2906">172.  2017-04-19 02:22:10 +0000     2209 bytes  src/rules/img-has-alt.js</tspan>
+<tspan x="10" y="2922">173.  2017-04-19 02:22:10 +0000     2148 bytes  src/rules/img-redundant-alt.js</tspan>
+<tspan x="10" y="2938">174.  2017-04-19 02:22:10 +0000     1408 bytes  src/rules/label-has-for.js</tspan>
+<tspan x="10" y="2954">175.  2017-04-19 02:22:10 +0000     1634 bytes  src/rules/lang.js</tspan>
+<tspan x="10" y="2970">176.  2017-04-19 02:22:10 +0000     1975 bytes  src/rules/mouse-events-have-key-events.js</tspan>
+<tspan x="10" y="2986">177.  2017-04-19 02:22:10 +0000     1026 bytes  src/rules/no-access-key.js</tspan>
+<tspan x="10" y="3002">178.  2017-04-19 02:22:10 +0000      920 bytes  src/rules/no-autofocus.js</tspan>
+<tspan x="10" y="3018">179.  2017-04-19 02:22:10 +0000     1198 bytes  src/rules/no-distracting-elements.js</tspan>
+<tspan x="10" y="3034">180.  2017-04-19 02:22:10 +0000     1208 bytes  src/rules/no-onchange.js</tspan>
+<tspan x="10" y="3050">181.  2017-04-19 02:22:10 +0000     1380 bytes  src/rules/no-redundant-roles.js</tspan>
+<tspan x="10" y="3066">182.  2017-04-19 02:22:10 +0000     1446 bytes  src/rules/no-static-element-interactions.js</tspan>
+<tspan x="10" y="3082">183.  2017-04-19 02:22:10 +0000     1994 bytes  src/rules/onclick-has-focus.js</tspan>
+<tspan x="10" y="3098">184.  2017-04-19 02:22:10 +0000     1404 bytes  src/rules/onclick-has-role.js</tspan>
+<tspan x="10" y="3114">185.  2017-04-19 02:22:10 +0000     2001 bytes  src/rules/role-has-required-aria-props.js</tspan>
+<tspan x="10" y="3130">186.  2017-04-19 02:22:10 +0000     2498 bytes  src/rules/role-supports-aria-props.js</tspan>
+<tspan x="10" y="3146">187.  2017-04-19 02:22:10 +0000     1214 bytes  src/rules/scope.js</tspan>
+<tspan x="10" y="3162">188.  2017-04-19 02:22:10 +0000     1161 bytes  src/rules/tabindex-no-positive.js</tspan>
+<tspan x="10" y="3178">189.  2017-04-19 02:22:10 +0000     3886 bytes  src/util/attributes/ISO.json</tspan>
+<tspan x="10" y="3194">190.  2017-04-19 02:22:10 +0000      618 bytes  src/util/getImplicitRole.js</tspan>
+<tspan x="10" y="3210">191.  2017-04-19 02:22:10 +0000      794 bytes  src/util/getSuggestion.js</tspan>
+<tspan x="10" y="3226">192.  2017-04-19 02:22:10 +0000      855 bytes  src/util/getTabIndex.js</tspan>
+<tspan x="10" y="3242">193.  2017-04-19 02:22:10 +0000      237 bytes  src/util/implicitRoles/a.js</tspan>
+<tspan x="10" y="3258">194.  2017-04-19 02:22:10 +0000      233 bytes  src/util/implicitRoles/area.js</tspan>
+<tspan x="10" y="3274">195.  2017-04-19 02:22:10 +0000      133 bytes  src/util/implicitRoles/article.js</tspan>
+<tspan x="10" y="3290">196.  2017-04-19 02:22:10 +0000      135 bytes  src/util/implicitRoles/aside.js</tspan>
+<tspan x="10" y="3306">197.  2017-04-19 02:22:10 +0000      127 bytes  src/util/implicitRoles/body.js</tspan>
+<tspan x="10" y="3322">198.  2017-04-19 02:22:10 +0000      129 bytes  src/util/implicitRoles/button.js</tspan>
+<tspan x="10" y="3338">199.  2017-04-19 02:22:10 +0000      134 bytes  src/util/implicitRoles/datalist.js</tspan>
+<tspan x="10" y="3354">200.  2017-04-19 02:22:10 +0000      130 bytes  src/util/implicitRoles/details.js</tspan>
+<tspan x="10" y="3370">201.  2017-04-19 02:22:10 +0000      129 bytes  src/util/implicitRoles/dialog.js</tspan>
+<tspan x="10" y="3386">202.  2017-04-19 02:22:10 +0000      119 bytes  src/util/implicitRoles/dl.js</tspan>
+<tspan x="10" y="3402">203.  2017-04-19 02:22:10 +0000      123 bytes  src/util/implicitRoles/form.js</tspan>
+<tspan x="10" y="3418">204.  2017-04-19 02:22:10 +0000      123 bytes  src/util/implicitRoles/h1.js</tspan>
+<tspan x="10" y="3434">205.  2017-04-19 02:22:10 +0000      123 bytes  src/util/implicitRoles/h2.js</tspan>
+<tspan x="10" y="3450">206.  2017-04-19 02:22:10 +0000      123 bytes  src/util/implicitRoles/h3.js</tspan>
+<tspan x="10" y="3466">207.  2017-04-19 02:22:10 +0000      123 bytes  src/util/implicitRoles/h4.js</tspan>
+<tspan x="10" y="3482">208.  2017-04-19 02:22:10 +0000      123 bytes  src/util/implicitRoles/h5.js</tspan>
+<tspan x="10" y="3498">209.  2017-04-19 02:22:10 +0000      122 bytes  src/util/implicitRoles/h6.js</tspan>
+<tspan x="10" y="3514">210.  2017-04-19 02:22:10 +0000      125 bytes  src/util/implicitRoles/hr.js</tspan>
+<tspan x="10" y="3530">211.  2017-04-19 02:22:10 +0000      317 bytes  src/util/implicitRoles/img.js</tspan>
+<tspan x="10" y="3546">212.  2017-04-19 02:22:10 +0000     1358 bytes  src/util/implicitRoles/index.js</tspan>
+<tspan x="10" y="3562">213.  2017-04-19 02:22:10 +0000      860 bytes  src/util/implicitRoles/input.js</tspan>
+<tspan x="10" y="3578">214.  2017-04-19 02:22:10 +0000      124 bytes  src/util/implicitRoles/li.js</tspan>
+<tspan x="10" y="3594">215.  2017-04-19 02:22:10 +0000      232 bytes  src/util/implicitRoles/link.js</tspan>
+<tspan x="10" y="3610">216.  2017-04-19 02:22:10 +0000      376 bytes  src/util/implicitRoles/menu.js</tspan>
+<tspan x="10" y="3626">217.  2017-04-19 02:22:10 +0000      550 bytes  src/util/implicitRoles/menuitem.js</tspan>
+<tspan x="10" y="3642">218.  2017-04-19 02:22:10 +0000      132 bytes  src/util/implicitRoles/meter.js</tspan>
+<tspan x="10" y="3658">219.  2017-04-19 02:22:10 +0000      127 bytes  src/util/implicitRoles/nav.js</tspan>
+<tspan x="10" y="3674">220.  2017-04-19 02:22:10 +0000      120 bytes  src/util/implicitRoles/ol.js</tspan>
+<tspan x="10" y="3690">221.  2017-04-19 02:22:10 +0000      130 bytes  src/util/implicitRoles/option.js</tspan>
+<tspan x="10" y="3706">222.  2017-04-19 02:22:10 +0000      130 bytes  src/util/implicitRoles/output.js</tspan>
+<tspan x="10" y="3722">223.  2017-04-19 02:22:10 +0000      138 bytes  src/util/implicitRoles/progress.js</tspan>
+<tspan x="10" y="3738">224.  2017-04-19 02:22:10 +0000      131 bytes  src/util/implicitRoles/section.js</tspan>
+<tspan x="10" y="3754">225.  2017-04-19 02:22:10 +0000      130 bytes  src/util/implicitRoles/select.js</tspan>
+<tspan x="10" y="3770">226.  2017-04-19 02:22:10 +0000      129 bytes  src/util/implicitRoles/tbody.js</tspan>
+<tspan x="10" y="3786">227.  2017-04-19 02:22:10 +0000      134 bytes  src/util/implicitRoles/textarea.js</tspan>
+<tspan x="10" y="3802">228.  2017-04-19 02:22:10 +0000      129 bytes  src/util/implicitRoles/tfoot.js</tspan>
+<tspan x="10" y="3818">229.  2017-04-19 02:22:10 +0000      129 bytes  src/util/implicitRoles/thead.js</tspan>
+<tspan x="10" y="3834">230.  2017-04-19 02:22:10 +0000      119 bytes  src/util/implicitRoles/ul.js</tspan>
+<tspan x="10" y="3850">231.  2017-04-19 02:22:10 +0000      721 bytes  src/util/isHiddenFromScreenReader.js</tspan>
+<tspan x="10" y="3866">232.  2017-04-19 02:22:10 +0000     1721 bytes  src/util/isInteractiveElement.js</tspan>
+<tspan x="10" y="3882">233.  2017-04-19 02:22:10 +0000     1510 bytes  src/util/isInteractiveRole.js</tspan>
+<tspan x="10" y="3898">234.  2017-04-19 02:22:10 +0000      665 bytes  src/util/schemas.js</tspan>
+<tspan x="10" y="3914">235.  2017-04-19 02:22:10 +0000   146729 bytes  yarn.lock</tspan>
 </text>
 </svg>
